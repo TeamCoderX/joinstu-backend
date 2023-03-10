@@ -1,0 +1,45 @@
+{
+  "name": "joinstu",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
+    "axios": "^1.2.2",
+    "bcrypt": "^5.1.0",
+    "connect-history-api-fallback": "^2.0.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-mongodb-session": "^3.2.1",
+    "express-session": "^1.17.3",
+    "express-winston": "^4.2.0",
+    "google-auth-library": "^8.7.0",
+    "googleapis": "^111.0.0",
+    "http-errors": "~1.6.3",
+    "jade": "^1.9.2",
+    "mitt": "^3.0.0",
+    "mongodb": "^4.12.1",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.20",
+    "npm-run-all": "^4.1.5",
+    "passport": "^0.6.0",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-oauth2": "^1.6.1",
+    "request": "^2.88.2",
+    "vue-router": "^4.1.6",
+    "vue-template-compiler": "^2.7.14",
+    "winston": "^3.8.2"
+  },
+  "scripts": {
+    "start-ssl": "cross-env NODE_ENV='dev-ssl' nodemon ./bin/www",
+    "start": "cross-env NODE_ENV='dev' MONGOURI='mongodb+srv://joinstu_server:GfiLNH9ZGN26oDeM@cluster0.u240pmw.mongodb.net/test' nodemon ./bin/www",
+    "prod": "nodemon bin/www"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
+    "vue3-google-login": "^2.0.14"
+  }
+}
