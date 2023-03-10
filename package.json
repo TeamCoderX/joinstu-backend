@@ -34,7 +34,7 @@
   },
   "scripts": {
     "start-ssl": "cross-env NODE_ENV='dev-ssl' nodemon ./bin/www",
-    "start": "cross-env NODE_ENV='dev' MONGOURI='mongodb+srv://joinstu_server:GfiLNH9ZGN26oDeM@cluster0.u240pmw.mongodb.net/test' nodemon ./bin/www",
+    "start": "cross-env NODE_ENV='dev' nodemon ./bin/www",
     "prod": "nodemon bin/www"
   },
   "devDependencies": {
