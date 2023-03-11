@@ -18,12 +18,11 @@ jobs:
           node-version: '19'
       - name: Clone Backend
         run: git clone https://github.com/TeamCoderX/joinstu-backend.git
-      - name: Commit Files
+      - name: Merge main -> deploy
         working-directory: ./joinstu-backend
-        run: |
-          git add dist/index/
-          git config --global url."git@github.com:".insteadOf "https://github.com/"
-          git config --global user.email "action@coderx.com"
-          git config --global user.name "Team-coderX"
-          git commit -m "Add changes" -a
-          git push
+        uses: devmasx/merge-branch@master
+        with:
+          type: now
+          from_branch: main
+          target_branch: deploy
+        
