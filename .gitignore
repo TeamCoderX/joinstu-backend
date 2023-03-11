@@ -3,6 +3,6 @@ node_modules
 .DS_Store
 
 /ngrok.exe
-/sslcert
+/ssl
 package-lock.json
 .env
