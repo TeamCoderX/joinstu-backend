@@ -33,10 +33,15 @@
     "winston": "^3.8.2"
   },
   "scripts": {
-    "install": "npm install && rm -r dist && mkdir dist && mkdir dist/admin && mkdir dist/index",
+    "init": "npm install && npm install --prefix ../joinstu-index-vue && npm install --prefix ../joinstu-admin-vue && npm run build-index && npm run build-admin",
     "start-ssl": "cross-env NODE_ENV='dev-ssl' nodemon ./bin/www",
     "start": "cross-env NODE_ENV='dev' nodemon ./bin/www",
-    "prod": "nodemon bin/www"
+    "prod": "nodemon bin/www",
+    "dev-index": "npm run serve --prefix ../joinstu-index-vue",
+    "build-index": "npm run build --prefix ../joinstu-index-vue",
+    "dev-admin": "npm run serve --prefix ../joinstu-admin-vue",
+    "build-admin": "npm run build --prefix ../joinstu-admin-vue",
+    "build": "npm run build-index && npm run build-admin"
   },
   "devDependencies": {
     "cors": "^2.8.5",
