@@ -16,10 +16,7 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: '19'
-      - name: Clone Backend
-        run: git clone https://github.com/TeamCoderX/joinstu-backend.git
       - name: Merge main -> deploy
-        working-directory: ./joinstu-backend
         uses: devmasx/merge-branch@master
         with:
           type: now
