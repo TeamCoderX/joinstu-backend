@@ -9,9 +9,10 @@ OAUTH_CLIENT_SECRET='YOUR_SECRET'
 OAUTH_CALLBACK='https://joinstu-ec48u.ondigitalocean.app/api/auth/google/callback'
 OAUTH_CALLBACK_DEV='https://127.0.0.1/api/auth/google/callback'
 ```
-joinstu development environment
 https://github.com/TeamCoderX/joinstu-index-vue
+
 https://github.com/TeamCoderX/joinstu-admin-vue
+
 https://github.com/TeamCoderX/joinstu-backend
 
 **.env for prod**
