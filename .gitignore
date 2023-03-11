@@ -4,6 +4,5 @@ node_modules
 
 /ngrok.exe
 /sslcert
-.env
 package-lock.json
-
+.env
