@@ -1,0 +1,29 @@
+on:
+  push:
+    branches:
+    - main
+jobs:
+  my_job:
+    name: deploy to branch
+    runs-on: ubuntu-latest
+    
+    steps: 
+      - uses: actions/checkout@v3
+      - uses: webfactory/ssh-agent@v0.7.0
+        with:
+            ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+      - name: Setup Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: '19'
+      - name: Clone Backend
+        run: git clone https://github.com/TeamCoderX/joinstu-backend.git
+      - name: Commit Files
+        working-directory: ./joinstu-backend
+        run: |
+          git add dist/index/
+          git config --global url."git@github.com:".insteadOf "https://github.com/"
+          git config --global user.email "action@coderx.com"
+          git config --global user.name "Team-coderX"
+          git commit -m "Add changes" -a
+          git push
