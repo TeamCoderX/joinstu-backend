@@ -33,6 +33,7 @@
     "winston": "^3.8.2"
   },
   "scripts": {
+    "install": "npm install && rm -r dist && mkdir dist && mkdir dist/admin && mkdir dist/index",
     "start-ssl": "cross-env NODE_ENV='dev-ssl' nodemon ./bin/www",
     "start": "cross-env NODE_ENV='dev' nodemon ./bin/www",
     "prod": "nodemon bin/www"
