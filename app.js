@@ -9,7 +9,7 @@ var app = express();
 //session
 var session = require('express-session');
 const MongoDBStore = require('express-mongodb-session')(session);
-const mongoURI = process.env.MONGOURI
+const mongoURI = process.env.MONGO_URI
 const store = new MongoDBStore({
   uri: mongoURI,
   collection: 'Sessions'
@@ -78,8 +78,8 @@ app.use('/api/auth',oauthRouter)
 
 //history
 var history = require('connect-history-api-fallback');
-app.use('/', express.static(path.join(__dirname, 'vue-front/dist')));
-app.use('/admin', express.static(path.join(__dirname, 'vue-admin/dist')));
+app.use('/', express.static(path.join(__dirname, 'dist/index')));
+app.use('/admin', express.static(path.join(__dirname, 'dist/admin')));
 app.use(history({
   disableDotRule: true,
   verbose: true,
