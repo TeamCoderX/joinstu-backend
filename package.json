@@ -33,7 +33,7 @@
     "winston": "^3.8.2"
   },
   "scripts": {
-    "init": "npm install && npm install --prefix ../joinstu-index-vue && npm install --prefix ../joinstu-admin-vue && npm run build && npm run build-admin",
+    "init": "npm install && npm install --prefix ../joinstu-index-vue && npm install --prefix ../joinstu-admin-vue && npm run build",
     "start-ssl": "cross-env NODE_ENV='dev-ssl' nodemon ./bin/www",
     "start": "cross-env NODE_ENV='dev' nodemon ./bin/www",
     "prod": "nodemon bin/www",
