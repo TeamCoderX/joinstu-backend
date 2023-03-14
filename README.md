@@ -42,11 +42,19 @@ OAUTH_CALLBACK_DEV='https://127.0.0.1/api/auth/google/callback'
 
 ## 所有`npm run `指令：
 `init`：初始化
+
 `start-ssl`：運行後端（啟用ssl，需要在.env指定前兩行ssl憑證檔案）
+
 `start`：運行後端（無ssl，.env可忽略前兩行）
+
 `prod`：正式運行（用於託管）
+
 （以下指令須照上述初始化步驟方可使用）
+
 `dev-admin`：前端admin預覽
+
 `dev-index`：前端index預覽
+
 `build-admin`：產生admin靜態頁面
+
 `build-index`：產生index靜態頁面
