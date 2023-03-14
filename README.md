@@ -1,5 +1,5 @@
 # joinstu-backend
-## .gitignore Example
+## .env Example
 ``` .gitignore
 SSL_KEY='/path/to/private.key'
 SSL_CRT='/path/to/certificate.crt'
@@ -17,18 +17,18 @@ https://github.com/TeamCoderX/joinstu-backend
 
 **.env for prod**
 ```
-MONGO_URI='mongodb+srv://joinstu:PASSWORD@mongoserver/test'
-OAUTH_CLIENT_ID='XXX.apps.googleusercontent.com'
-OAUTH_CLIENT_SECRET='XXXXXX'
+MONGO_URI='mongodb+srv://joinstu_server:0000/test'
+OAUTH_CLIENT_ID='XXXXX.apps.googleusercontent.com'
+OAUTH_CLIENT_SECRET='YOUR_SECRET'
 OAUTH_CALLBACK='https://joinstu-ec48u.ondigitalocean.app/api/auth/google/callback'
 ```
 **.env for dev**
 ```
-SSL_KEY='ssl/private.key'
-SSL_CRT='ssl/certificate.crt'
-MONGO_URI='mongodb+srv://joinstu:PASSWORD@mongoserver/test'
+SSL_KEY='/path/to/private.key'
+SSL_CRT='/path/to/certificate.crt'
+MONGO_URI='mongodb+srv://joinstu_server:0000/test'
 OAUTH_CLIENT_ID='XXXXX.apps.googleusercontent.com'
-OAUTH_CLIENT_SECRET='XXXXXX'
+OAUTH_CLIENT_SECRET='YOUR_SECRET'
 OAUTH_CALLBACK='https://joinstu-ec48u.ondigitalocean.app/api/auth/google/callback'
 OAUTH_CALLBACK_DEV='https://127.0.0.1/api/auth/google/callback'
 ```
