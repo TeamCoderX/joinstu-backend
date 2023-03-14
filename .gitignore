@@ -6,5 +6,5 @@ node_modules
 /ssl
 package-lock.json
 .env
-dist
-dist/admin/do_not_remove
+dist/index/*
+dist/admin/*
