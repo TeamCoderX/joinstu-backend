@@ -6,6 +6,7 @@ var logger = require('morgan');
 
 var app = express();
 
+require('dotenv').config();
 //session
 var session = require('express-session');
 const MongoDBStore = require('express-mongodb-session')(session);
