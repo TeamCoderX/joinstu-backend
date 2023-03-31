@@ -1,6 +1,9 @@
 # bin/sh
 # initialize for joinstu-dev-env
 # npm install
+cd ..
+git clone git@github.com:TeamCoderX/joinstu-index-vue.git
+git clone git@github.com:TeamCoderX/joinstu-admin-vue.git
 cd ../joinstu-index-vue
 npm install
 cd ../joinstu-admin-vue
