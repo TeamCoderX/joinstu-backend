@@ -73,7 +73,7 @@ router.post('/commentSupport/:id', auth, (req, res) => {
     if (req.body.contents != "") {
         try {
             client.db('forums-comment-support').collection(id).insertOne({
-                id: generateNewId(req, 'forums-comment-support', id),
+                id: generateNewId('forums-comment-support', id),
                 author: user,
                 contents: req.body.contents,
                 date: new Date
@@ -93,7 +93,7 @@ router.post('/commentElse/:id', auth, (req, res) => {
     if (req.body.contents != "") {
         try {
             client.db('forums-comment-else').collection(id).insertOne({
-                id: generateNewId(req, 'forums-comment-support', id),
+                id: generateNewId('forums-comment-support', id),
                 author: user,
                 contents: req.body.contents,
                 date: new Date
