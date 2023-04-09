@@ -21,7 +21,7 @@ router.get('/comments/:id', (req, res) => {
 router.get('/details/:id', (req, res) => {
     const id = req.params.id.toString()
     try {
-        client.db('main').collection('forum').findOne({ url: id }, (err, cardData) => {
+        client.db('main').collection('forum').findOne({ id: id }, (err, cardData) => {
             if (err) throw err;
             res.json(cardData)
         })
@@ -51,27 +51,22 @@ router.post('/new', auth, (req, res) => {
     try {
         if (req.body.title != "" && req.body.contents != "") {
             client.db('main').collection('forum').insertOne({
-                id: generateNewId(req, 'main', 'forum'),
+                id: generateNewId('main', 'forum'),
                 title: req.body.title,
                 contents: req.body.contents,
                 date: new Date,
                 author: req.session.user
             })
-            client.db('forums-comment-support').createCollection(randomURL, (err) => {
-                if (err) throw err;
-            })
-            client.db('forums-comment-else').createCollection(randomURL, (err) => {
-                if (err) throw err;
-            })
-            res.json({ status: true })
+            res.json({ status: true });
         } else {
-            res.json({ status: false })
+            res.json({ status: false, reason: 'data-empty' });
         }
     } catch (err) {
-        console.log(err)
-        res.sendStatus(500)
+        console.log(err);
+        res.sendStatus(500);
     }
 })
+
 router.post('/commentSupport/:id', auth, (req, res) => {
     const id = req.params.id
     let user = req.session.user

@@ -21,7 +21,7 @@ router.get('/comments/:id', (req, res) => {
 router.get('/details/:id', (req, res) => {
     const id = req.params.id.toString()
     try {
-        client.db('main').collection('propose').findOne({ url: id }, (err, data) => {
+        client.db('main').collection('propose').findOne({ id: id }, (err, data) => {
             res.json(data)
         })
     } catch (err) {
@@ -93,9 +93,9 @@ router.get('/supportStatus/:id', auth, (req, res) => {
 
 router.post('/new', auth, (req, res) => {
     try {
-        if (req.body.title == "" || req.body.details == "" || req.body.purpose == "") {
+        if (req.body.title != "" && req.body.details != "" && req.body.purpose != "") {
             client.db('main').collection('propose').insertOne({
-                url: generateNewId(req, 'main', 'propose'),
+                id: generateNewId('main', 'propose'),
                 title: req.body.title,
                 details: req.body.details,
                 purpose: req.body.purpose,
@@ -105,7 +105,7 @@ router.post('/new', auth, (req, res) => {
             })
             res.json({ status: true });
         } else {
-            res.json({ status: false });
+            res.json({ status: false, reason: 'data-empty' });
         }
     } catch (err) {
         console.log(err);
@@ -119,7 +119,7 @@ router.post('/commentSupport/:id', auth, (req, res) => {
     if (req.body.contents != "") {
         try {
             client.db('proposes-comment-support').collection(id).insertOne({
-                id: generateNewId(req, 'proposes-comment-support', id),
+                id: generateNewId('proposes-comment-support', id),
                 author: user,
                 contents: req.body.contents,
                 date: new Date
@@ -140,7 +140,7 @@ router.post('/commentElse/:id', auth, (req, res) => {
     if (req.body.contents != "") {
         try {
             client.db('proposes-comment-else').collection(id).insertOne({
-                id: generateNewId(req, 'proposes-comment-support', id),
+                id: generateNewId('proposes-comment-support', id),
                 author: user,
                 contents: req.body.contents,
                 date: new Date
