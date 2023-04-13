@@ -37,7 +37,7 @@ router.post('/getSchool',(req,res)=>{
 router.post('/getTitle/propose',(req,res)=>{
     const id = req.body.id;
     try {
-        client.db('main').collection('propose').findOne({url: id},(err,data)=>{
+        client.db('main').collection('propose').findOne({id: id},(err,data)=>{
             if(err) throw err;
             if(data == null){
                 res.json({title:null});

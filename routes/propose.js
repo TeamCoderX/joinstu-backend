@@ -55,7 +55,7 @@ router.post('/support/:id', auth, (req, res) => {
             if (result[0] == undefined) {
                 client.db('proposes').collection(proposeID).insertOne({ student_id: user }, () => {
                     if (err) throw err;
-                    client.db('main').collection('propose').updateOne({ url: proposeID }, { $inc: { num: 1 } });
+                    client.db('main').collection('propose').updateOne({ id: proposeID }, { $inc: { num: 1 } });
                     client.db('main').collection('accounts').updateOne({ id: user }, { $push: { supportedProposes: proposeID } });
                 })
                 res.json({ status: true })
