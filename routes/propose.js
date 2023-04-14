@@ -70,8 +70,6 @@ router.post('/support/:id', auth, (req, res) => {
 })
 
 router.get('/supportStatus/:id', auth, (req, res) => {
-    var user = req.session.user
-    var proposeID = req.params.id
     try {
         client.db('main').collection('accounts').findOne({ id: user }, (err, data) => {
             if (err) throw err;
@@ -92,6 +90,8 @@ router.get('/supportStatus/:id', auth, (req, res) => {
 })
 
 router.post('/new', auth, (req, res) => {
+    var user = req.session.user
+    var proposeID = req.params.id
     try {
         if (req.body.title != "" && req.body.details != "" && req.body.purpose != "") {
             client.db('main').collection('propose').insertOne({
@@ -103,6 +103,7 @@ router.post('/new', auth, (req, res) => {
                 date: new Date,
                 num: 0
             })
+            client.db('main').collection('accounts').updateOne({ id: user }, { $push: { addedProposes: proposeID } });
             res.json({ status: true });
         } else {
             res.json({ status: false, reason: 'data-empty' });
