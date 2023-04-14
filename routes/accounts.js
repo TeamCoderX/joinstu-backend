@@ -1,6 +1,6 @@
-var express = require('express');
-var router = express.Router();
-var { client, passwordEncryption } = require('../lib/dbutils')
+const express = require('express');
+const router = express.Router();
+const { client, passwordEncryption } = require('../lib/dbutils')
 
 router.post('/login', (req, res) => {
     const id = req.body.account

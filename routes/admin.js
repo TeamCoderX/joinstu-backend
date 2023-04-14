@@ -1,6 +1,6 @@
-var express = require('express');
-var router = express.Router();
-var { client, auth, passwordEncryption } = require('../lib/dbutils')
+const express = require('express');
+const router = express.Router();
+const { client, auth, passwordEncryption } = require('../lib/dbutils')
 
 router.get('/getUsers',  (req,res)=>{
     try{
