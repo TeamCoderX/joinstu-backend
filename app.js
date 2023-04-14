@@ -1,14 +1,14 @@
-var createError = require('http-errors');
-var express = require('express');
-var path = require('path');
-var cookieParser = require('cookie-parser');
-var logger = require('morgan');
+const createError = require('http-errors');
+const express = require('express');
+const path = require('path');
+const cookieParser = require('cookie-parser');
+const logger = require('morgan');
 
-var app = express();
+const app = express();
 
 require('dotenv').config();
 //session
-var session = require('express-session');
+const session = require('express-session');
 const MongoDBStore = require('express-mongodb-session')(session);
 const mongoURI = process.env.MONGO_URI
 const store = new MongoDBStore({
@@ -78,7 +78,7 @@ app.use('/api/auth',oauthRouter)
 
 
 //history
-var history = require('connect-history-api-fallback');
+const history = require('connect-history-api-fallback');
 app.use('/', express.static(path.join(__dirname, 'dist/index')));
 app.use('/admin', express.static(path.join(__dirname, 'dist/admin')));
 app.use(history({

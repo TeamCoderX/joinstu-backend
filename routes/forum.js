@@ -1,6 +1,6 @@
-var express = require('express');
-var router = express.Router();
-var { client, auth, generateNewId } = require('../lib/dbutils');
+const express = require('express');
+const router = express.Router();
+const { client, auth, generateNewId } = require('../lib/dbutils');
 
 router.get('/comments/:id', (req, res) => {
     const id = req.params.id.toString()

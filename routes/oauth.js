@@ -1,6 +1,6 @@
-var express = require('express');
-var router = express.Router();
-var dbclient = require('../lib/dbutils').client;
+const express = require('express');
+const router = express.Router();
+const dbclient = require('../lib/dbutils').client;
 
 const clientID = process.env.OAUTH_CLIENT_ID;
 const clientSecret = process.env.OAUTH_CLIENT_SECRET;

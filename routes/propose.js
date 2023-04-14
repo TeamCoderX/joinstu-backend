@@ -1,6 +1,6 @@
-var express = require('express');
-var router = express.Router();
-var { client, auth, generateNewId } = require('../lib/dbutils');
+const express = require('express');
+const router = express.Router();
+const { client, auth, generateNewId } = require('../lib/dbutils');
 
 router.get('/comments/:id', (req, res) => {
     const id = req.params.id.toString()
@@ -47,8 +47,8 @@ router.post('/list', (req, res) => {
 })
 
 router.post('/support/:id', auth, (req, res) => {
-    var user = req.session.user;
-    var proposeID = req.params.id;
+    const user = req.session.user;
+    const proposeID = req.params.id;
     try {
         client.db('proposes').collection(proposeID).find({ student_id: user }).toArray((err, result) => {
             if (err) throw err;
