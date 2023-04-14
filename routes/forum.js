@@ -48,8 +48,8 @@ router.post('/list', (req, res) => {
 })
 
 router.post('/new', auth, (req, res) => {
-    var user = req.session.user;
-    var forumID = generateNewId('main', 'forum')
+    const user = req.session.user;
+    const forumID = generateNewId('main', 'forum');
     try {
         if (req.body.title != "" && req.body.contents != "") {
             client.db('main').collection('forum').insertOne({
