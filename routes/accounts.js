@@ -9,10 +9,10 @@ router.post('/login', (req, res) => {
         if (data != null) {
             if (data.isBanned == true) {
                 res.json({ status: false, reason: 'banned' });
-            } else if(data.isDeleted == true){
+            } else if (data.isDeleted == true) {
                 res.json({ status: false, reason: 'data-incorrect' })
             } else {
-                if(data.password != null){
+                if (data.password != null) {
                     passwordEncryption.check(password, data.password).then((result) => {
                         if (result) {
                             req.session.user = data.id
@@ -23,13 +23,13 @@ router.post('/login', (req, res) => {
                             res.json({ status: false, reason: 'data-incorrect' })
                         }
                     }).catch((err) => {
-                            console.log(err);
+                        console.log(err);
                     })
-                }else{
+                } else {
                     res.json({ status: false, reason: 'data-incorrect' })
                 }
             }
-        }else {
+        } else {
             res.json({ status: false, reason: 'data-incorrect' })
         }
     })
