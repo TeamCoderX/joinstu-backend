@@ -1,0 +1,42 @@
+NODE_ENV=dev MONGO_URI=mongodb+srv://joinstu_server:CiIBD5b9JHZWOUwE@cluster0.u240pmw.mongodb.net/test' ./bin/www
+NODE_ENV=dev MONGO_URI=mongodb+srv://joinstu_server:CiIBD5b9JHZWOUwE@cluster0.u240pmw.mongodb.net/test' ./bin/www
+[0mGET / [32m200 [0m27.444 ms - 883[0m
+[0mGET /js/chunk-vendors.7a311238.js [32m200 [0m7.431 ms - 142282[0m
+[0mGET /css/app.f969c2a3.css [32m200 [0m0.841 ms - 272480[0m
+[0mGET /js/app.759d1d9e.js [32m200 [0m0.779 ms - 95901[0m
+[0mPOST /api/accounts/status [32m200 [0m22.672 ms - 16[0m
+[0mGET /img/white.0e5ab830.svg [32m200 [0m0.762 ms - 176338[0m
+[0mGET /js/220.9cfdc7dd.js [32m200 [0m2.020 ms - 5832[0m
+[0mGET /fonts/bootstrap-icons.35e09da2.woff2 [32m200 [0m0.815 ms - 121296[0m
+[0mGET /icon.svg [32m200 [0m1.318 ms - 132396[0m
+[0mPOST /api/propose/list [32m200 [0m704.392 ms - 440[0m
+[0mGET /js/570.1fdb0f72.js [32m200 [0m1.785 ms - 10241[0m
+[0mGET /api/propose/supportStatus/81683640031 [33m403 [0m1.130 ms - 9[0m
+[0mGET /api/propose/comments/81683640031 [32m200 [0m149.589 ms - 1437[0m
+[0mPOST /api/data/getUser [32m200 [0m73.983 ms - 28[0m
+[0mPOST /api/accounts/status [32m200 [0m0.657 ms - 16[0m
+[0mPOST /api/data/getUser [32m200 [0m139.828 ms - 28[0m
+[0mGET /api/propose/details/81683640031 [32m200 [0m505.038 ms - 419[0m
+[0mPOST /api/data/getUser [32m200 [0m65.894 ms - 20[0m
+[0mPOST /api/data/getUser [32m200 [0m76.368 ms - 28[0m
+[0mPOST /api/data/getUser [32m200 [0m68.971 ms - 28[0m
+[0mPOST /api/data/getUser [32m200 [0m89.312 ms - 28[0m
+[0mPOST /api/data/getUser [32m200 [0m450.375 ms - 20[0m
+[0mPOST /api/data/getUser [32m200 [0m73.981 ms - 28[0m
+[0mPOST /api/data/getUser [32m200 [0m65.946 ms - 28[0m
+[0mPOST /api/data/getUser [32m200 [0m73.972 ms - 28[0m
+[0mPOST /api/data/getUser [32m200 [0m413.780 ms - 28[0m
+[0mPOST /api/propose/list [32m200 [0m72.679 ms - 440[0m
+[0mGET / [36m304 [0m1.535 ms - -[0m
+[0mGET /css/app.f969c2a3.css [36m304 [0m1.057 ms - -[0m
+[0mGET /js/chunk-vendors.7a311238.js [36m304 [0m0.626 ms - -[0m
+[0mGET /js/app.759d1d9e.js [36m304 [0m0.672 ms - -[0m
+[0mPOST /api/accounts/status [32m200 [0m0.661 ms - 16[0m
+[0mGET /img/white.0e5ab830.svg [36m304 [0m3.501 ms - -[0m
+[0mGET /fonts/bootstrap-icons.35e09da2.woff2 [36m304 [0m0.613 ms - -[0m
+[0mGET /js/220.9cfdc7dd.js [36m304 [0m0.571 ms - -[0m
+[0mGET /icon.svg [36m304 [0m0.607 ms - -[0m
+[0mPOST /api/propose/list [32m200 [0m56.580 ms - 440[0m
+Error: Error connecting to db: querySrv ENOTFOUND _mongodb._tcp.127.0.0.1
+    at /Users/siang/Documents/joinstu_tpe/joinstu-backend/node_modules/express-mongodb-session/index.js:148:21
+    at /Users/siang/Documents/joinstu_tpe/joinstu-backend/node_modules/mongodb/lib/utils.js:349:66

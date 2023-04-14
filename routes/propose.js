@@ -70,8 +70,8 @@ router.post('/support/:id', auth, (req, res) => {
 })
 
 router.get('/supportStatus/:id', auth, (req, res) => {
-    var user = req.session.user
-    var proposeID = req.params.id
+    const user = req.session.user;
+    const proposeID = req.params.id
     try {
         client.db('main').collection('accounts').findOne({ id: user }, (err, data) => {
             if (err) throw err;
@@ -92,10 +92,12 @@ router.get('/supportStatus/:id', auth, (req, res) => {
 })
 
 router.post('/new', auth, (req, res) => {
+    const user = req.session.user;
+    const proposeID = generateNewId('main', 'propose');
     try {
         if (req.body.title != "" && req.body.details != "" && req.body.purpose != "") {
             client.db('main').collection('propose').insertOne({
-                id: generateNewId('main', 'propose'),
+                id: proposeID,
                 title: req.body.title,
                 details: req.body.details,
                 purpose: req.body.purpose,
@@ -103,6 +105,7 @@ router.post('/new', auth, (req, res) => {
                 date: new Date,
                 num: 0
             })
+            client.db('main').collection('accounts').updateOne({ id: user }, { $push: { addedProposes: proposeID } });
             res.json({ status: true });
         } else {
             res.json({ status: false, reason: 'data-empty' });
@@ -115,7 +118,7 @@ router.post('/new', auth, (req, res) => {
 
 router.post('/commentSupport/:id', auth, (req, res) => {
     const id = req.params.id
-    let user = req.session.user
+    const user = req.session.user
     if (req.body.contents != "") {
         try {
             client.db('proposes-comment-support').collection(id).insertOne({

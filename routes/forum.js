@@ -48,15 +48,18 @@ router.post('/list', (req, res) => {
 })
 
 router.post('/new', auth, (req, res) => {
+    const user = req.session.user;
+    const forumID = generateNewId('main', 'forum');
     try {
         if (req.body.title != "" && req.body.contents != "") {
             client.db('main').collection('forum').insertOne({
-                id: generateNewId('main', 'forum'),
+                id: forumID,
                 title: req.body.title,
                 contents: req.body.contents,
                 date: new Date,
                 author: req.session.user
             })
+            client.db('main').collection('accounts').updateOne({ id: user }, { $push: { addedForums: forumID } });
             res.json({ status: true });
         } else {
             res.json({ status: false, reason: 'data-empty' });
