@@ -33,7 +33,7 @@ router.post('/list', (req, res) => {
     const ItemsPerPage = 6;
     const page = req.body.page;
     try {
-        client.db('main').collection('propose').find().sort({ date: -1 }).toArray((err, data) => {
+        client.db('main').collection('propose').find().sort({ num: -1 }).toArray((err, data) => {
             if (err) throw err;
             if (data.length < ItemsPerPage || page == undefined) {
                 res.json({ pages: 1, data: data });

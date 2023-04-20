@@ -1,0 +1,4377 @@
+[{
+  "_id": {
+    "$oid": "63f4e05a57ee67edc7424695"
+  },
+  "id": "default",
+  "password": "$2b$10$/6NjaR7XmEHOndSfSbCxbe7RRoXDHmnrjzT1vQoGPZHWYQg4uiYGi",
+  "school": "1010",
+  "name": "預設組",
+  "joindate": {
+    "$date": "2023-02-21T15:16:42.215Z"
+  },
+  "email": "",
+  "supportedProposes": [
+    "79595861212"
+  ],
+  "addedProposes": [
+    "79595861212"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63c9fb6c37b223d42c28d036"
+  },
+  "id": "jason",
+  "password": "$2b$10$cqQddaRunPJx.f1Vkmp/gOVhxSjXUN8yC/Y01l0hG7eWsLyNwYyOO",
+  "school": "381301",
+  "name": "李宥陞",
+  "joindate": {
+    "$date": "2023-01-20T02:24:44.277Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [
+    "25355922584"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63c9fb9e3635a03df27be17d"
+  },
+  "id": "admin_coderx",
+  "password": "$2b$10$m4fPFfMQTzvYIk2f6cMIBe7CFFq65IKllZoqIp9DbmDW/K8ochONu",
+  "name": "系統管理員",
+  "joindate": {
+    "$date": "2023-01-20T02:24:21.170Z"
+  },
+  "isAdmin": true,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63c9fb5537b223d42c28d035"
+  },
+  "id": "siang",
+  "password": "$2b$10$3bDXDUJ2kWM033SbnunEm.nvvp5DbW9K8TGYyPmt68m2u.IBE5ZaG",
+  "school": "381301",
+  "name": "黃鈺翔",
+  "joindate": {
+    "$date": "2023-01-20T02:24:21.170Z"
+  },
+  "supportedProposes": [
+    "07035175153"
+  ],
+  "addedProposes": [
+    "75588653955"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f4ce94861f18609ff107c8"
+  },
+  "id": "101509557097861527208",
+  "password": null,
+  "school": "381301",
+  "name": "一仁37黃鈺翔",
+  "joindate": {
+    "$date": "2023-02-21T14:00:52.754Z"
+  },
+  "supportedProposes": [
+    "07035175153"
+  ],
+  "addedProposes": [
+    "84978886307",
+    "30156093885"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11131118@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "63f4d853f889813a5dde63bc"
+  },
+  "id": "115450532509229208979",
+  "password": null,
+  "school": "381301",
+  "name": "一忠28李宥陞",
+  "joindate": {
+    "$date": "2023-02-21T14:42:27.464Z"
+  },
+  "supportedProposes": [
+    "06817060804"
+  ],
+  "addedProposes": [
+    "40327154781",
+    "13772475559",
+    "25114906495",
+    "19123811048"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f5626dc8779fea626c934c"
+  },
+  "id": "102241059141172848521",
+  "password": null,
+  "school": "381301",
+  "name": "八仁23林震寰",
+  "joindate": {
+    "$date": "2023-02-22T00:31:41.448Z"
+  },
+  "supportedProposes": [
+    "07035175153",
+    "7070304008",
+    "82880991037",
+    "64812814377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11055045@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "63f56277c8779fea626c934e"
+  },
+  "id": "102486737360392658711",
+  "password": null,
+  "school": "381301",
+  "name": "八仁30陳奕勳",
+  "joindate": {
+    "$date": "2023-02-22T00:31:51.645Z"
+  },
+  "supportedProposes": [
+    "54308030368",
+    "3529528614",
+    "42827164806",
+    "15514607786",
+    "72479498069",
+    "3288257027",
+    "93228310276",
+    "06817060804"
+  ],
+  "addedProposes": [
+    "54308030368",
+    "3529528614",
+    "15976560334",
+    "15514607786",
+    "42171425592",
+    "93228310276",
+    "3428163202"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11055052@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "63f5627cc8779fea626c934f"
+  },
+  "id": "103528898618384279227",
+  "password": null,
+  "school": "381301",
+  "name": "八仁33陳鼎勻",
+  "joindate": {
+    "$date": "2023-02-22T00:31:56.814Z"
+  },
+  "supportedProposes": [
+    "07035175153",
+    "133696901",
+    "54308030368",
+    "3529528614",
+    "42827164806",
+    "15976560334",
+    "72479498069",
+    "06817060804",
+    "15908732353",
+    "69792771987",
+    "7603414377",
+    "93228310276",
+    "82880991037",
+    "0795451423",
+    "64812814377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11055055@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "63f5627fc8779fea626c9350"
+  },
+  "id": "109215385269339602699",
+  "password": null,
+  "school": "381301",
+  "name": "八仁08孔慶民",
+  "joindate": {
+    "$date": "2023-02-22T00:31:59.503Z"
+  },
+  "supportedProposes": [
+    "15976560334",
+    "50364253278",
+    "3288257027"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f5627fc8779fea626c9351"
+  },
+  "id": "113435355269016206313",
+  "password": null,
+  "school": "381301",
+  "name": "八仁13吳沂桓",
+  "joindate": {
+    "$date": "2023-02-22T00:31:59.961Z"
+  },
+  "supportedProposes": [
+    "07035175153",
+    "133696901",
+    "50364253278",
+    "0795451423",
+    "7603414377",
+    "64812814377",
+    "13761622829"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11055035@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "63f56281c8779fea626c9352"
+  },
+  "id": "117931355033226881067",
+  "password": null,
+  "school": "381301",
+  "name": "八仁35黃柏翔",
+  "joindate": {
+    "$date": "2023-02-22T00:32:01.955Z"
+  },
+  "supportedProposes": [
+    "50364253278",
+    "07035175153",
+    "54308030368"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f56284c8779fea626c9353"
+  },
+  "id": "101151501839591783723",
+  "password": null,
+  "school": "381301",
+  "name": "八仁12余侑承",
+  "joindate": {
+    "$date": "2023-02-22T00:32:04.106Z"
+  },
+  "supportedProposes": [
+    "07035175153",
+    "133696901",
+    "7389213213",
+    "54308030368",
+    "3529528614",
+    "42827164806",
+    "15976560334",
+    "663376332",
+    "7070304008",
+    "3288257027",
+    "7603414377",
+    "06817060804"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11055034@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "63f56284c8779fea626c9354"
+  },
+  "id": "109290099918562907621",
+  "password": null,
+  "school": "381301",
+  "name": "八仁37葉宸翰",
+  "joindate": {
+    "$date": "2023-02-22T00:32:04.727Z"
+  },
+  "supportedProposes": [
+    "07035175153",
+    "133696901",
+    "54308030368",
+    "3529528614",
+    "50364253278",
+    "663376332"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f56287c8779fea626c9355"
+  },
+  "id": "114564608248521155093",
+  "password": null,
+  "school": "381301",
+  "name": "八仁40廖伯勳",
+  "joindate": {
+    "$date": "2023-02-22T00:32:07.835Z"
+  },
+  "supportedProposes": [
+    "133696901",
+    "54308030368",
+    "82880991037",
+    "3288257027",
+    "7603414377",
+    "1290225996"
+  ],
+  "addedProposes": [
+    "3288257027",
+    "7603414377",
+    "1290225996"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11055062@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "63f5628fc8779fea626c9357"
+  },
+  "id": "100450158955143963500",
+  "password": null,
+  "school": "381301",
+  "name": "八仁42藍晟文",
+  "joindate": {
+    "$date": "2023-02-22T00:32:15.659Z"
+  },
+  "supportedProposes": [
+    "133696901",
+    "07035175153",
+    "7389213213",
+    "663376332",
+    "0460352773",
+    "7070304008",
+    "66548433802",
+    "3288257027",
+    "82880991037",
+    "0795451423",
+    "7603414377"
+  ],
+  "addedProposes": [
+    "28297149693"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11055064@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "63f56292c8779fea626c9358"
+  },
+  "id": "105578528521792396818",
+  "password": null,
+  "school": "381301",
+  "name": "八仁10顧洺羽",
+  "joindate": {
+    "$date": "2023-02-22T00:32:18.971Z"
+  },
+  "supportedProposes": [
+    "50364253278",
+    "133696901",
+    "3288257027",
+    "82880991037"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11055065@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "63f5629cc8779fea626c935c"
+  },
+  "id": "108990409571037730756",
+  "password": null,
+  "school": "381301",
+  "name": "八仁34黃大承",
+  "joindate": {
+    "$date": "2023-02-22T00:32:28.694Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [
+    "42827164806",
+    "98476085992"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f562a3c8779fea626c935d"
+  },
+  "id": "116784311828473790660",
+  "password": null,
+  "school": "381301",
+  "name": "八仁24邱奕喬",
+  "joindate": {
+    "$date": "2023-02-22T00:32:35.878Z"
+  },
+  "supportedProposes": [
+    "51402567768",
+    "07035175153",
+    "42171425592",
+    "0795451423"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11055046@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "63f562a8c8779fea626c935e"
+  },
+  "id": "114318121051596472755",
+  "password": null,
+  "school": "381301",
+  "name": "八仁25唐敏倫",
+  "joindate": {
+    "$date": "2023-02-22T00:32:40.212Z"
+  },
+  "supportedProposes": [
+    "07035175153",
+    "54308030368",
+    "3288257027"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f562aec8779fea626c9360"
+  },
+  "id": "109615994555360631062",
+  "password": null,
+  "school": "381301",
+  "name": "八仁26張仕為",
+  "joindate": {
+    "$date": "2023-02-22T00:32:46.060Z"
+  },
+  "supportedProposes": [
+    "54308030368",
+    "3529528614",
+    "72479498069",
+    "7070304008",
+    "66548433802",
+    "50364253278",
+    "3288257027",
+    "82880991037",
+    "06817060804",
+    "93228310276",
+    "42171425592",
+    "98476085992",
+    "64812814377",
+    "0672254483"
+  ],
+  "addedProposes": [
+    "663376332",
+    "7070304008",
+    "06817060804"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11055048@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "63f562c8c8779fea626c9368"
+  },
+  "id": "110171000194228728096",
+  "password": null,
+  "school": "381301",
+  "name": "八仁21周彥龍",
+  "joindate": {
+    "$date": "2023-02-22T00:33:12.730Z"
+  },
+  "supportedProposes": [
+    "82880991037"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f562c9c8779fea626c9369"
+  },
+  "id": "103631750319354651682",
+  "password": null,
+  "school": "381301",
+  "name": "八仁01王喬可",
+  "joindate": {
+    "$date": "2023-02-22T00:33:13.056Z"
+  },
+  "supportedProposes": [
+    "3288257027"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f562cac8779fea626c936a"
+  },
+  "id": "112965189525702714502",
+  "password": null,
+  "school": "381301",
+  "name": "八仁32陳煥奇",
+  "joindate": {
+    "$date": "2023-02-22T00:33:14.683Z"
+  },
+  "supportedProposes": [
+    "50364253278",
+    "133696901",
+    "07035175153",
+    "54308030368",
+    "3529528614",
+    "15976560334",
+    "42827164806",
+    "3288257027",
+    "82880991037",
+    "7603414377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f56301c8779fea626c936f"
+  },
+  "id": "106691436901687920643",
+  "password": null,
+  "school": "381301",
+  "name": "八仁20杜禹亨",
+  "joindate": {
+    "$date": "2023-02-22T00:34:09.238Z"
+  },
+  "supportedProposes": [
+    "133696901",
+    "50364253278",
+    "54308030368",
+    "15514607786",
+    "663376332",
+    "72479498069",
+    "3288257027"
+  ],
+  "addedProposes": [
+    "72479498069"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f56302c8779fea626c9370"
+  },
+  "id": "112116587895520567963",
+  "password": null,
+  "school": "381301",
+  "name": "八仁16吳家宇（餅乾）",
+  "joindate": {
+    "$date": "2023-02-22T00:34:10.877Z"
+  },
+  "supportedProposes": [
+    "133696901",
+    "54308030368",
+    "72479498069"
+  ],
+  "addedProposes": [
+    "0460352773"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f56314c8779fea626c9372"
+  },
+  "id": "102797965749258486574",
+  "password": null,
+  "school": "381301",
+  "name": "八仁38董奕辰",
+  "joindate": {
+    "$date": "2023-02-22T00:34:28.197Z"
+  },
+  "supportedProposes": [
+    "133696901",
+    "50364253278",
+    "54308030368",
+    "07035175153",
+    "3529528614",
+    "42827164806",
+    "15976560334",
+    "15514607786",
+    "663376332",
+    "66548433802",
+    "72479498069",
+    "7070304008",
+    "0460352773",
+    "42171425592",
+    "3288257027",
+    "93228310276",
+    "98476085992",
+    "82880991037",
+    "06817060804",
+    "7603414377",
+    "0795451423",
+    "13761622829",
+    "12808988871",
+    "0672254483",
+    "1290225996"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11055060@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "63f5631ac8779fea626c9374"
+  },
+  "id": "104003414220410452590",
+  "password": null,
+  "school": "381301",
+  "name": "八仁43蔡翔聿",
+  "joindate": {
+    "$date": "2023-02-22T00:34:34.683Z"
+  },
+  "supportedProposes": [
+    "133696901",
+    "3529528614",
+    "66548433802",
+    "3288257027",
+    "06817060804"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f56366c8779fea626c937f"
+  },
+  "id": "100552199336106712075",
+  "password": null,
+  "school": "381301",
+  "name": "八仁14吳俊男",
+  "joindate": {
+    "$date": "2023-02-22T00:35:50.305Z"
+  },
+  "supportedProposes": [
+    "50364253278",
+    "54308030368",
+    "72479498069",
+    "93228310276",
+    "3288257027"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f5639bc8779fea626c9382"
+  },
+  "id": "101844856531189020975",
+  "password": null,
+  "school": "381301",
+  "name": "八仁22林宇澤",
+  "joindate": {
+    "$date": "2023-02-22T00:36:43.767Z"
+  },
+  "supportedProposes": [
+    "54308030368",
+    "133696901",
+    "3529528614",
+    "42827164806",
+    "15976560334",
+    "72479498069",
+    "93228310276",
+    "3288257027",
+    "06817060804",
+    "82880991037",
+    "1290225996",
+    "0795451423"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11055044@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "63f563a8c8779fea626c9385"
+  },
+  "id": "111352881893389433862",
+  "password": null,
+  "school": "381301",
+  "name": "八仁28莊子倫",
+  "joindate": {
+    "$date": "2023-02-22T00:36:56.507Z"
+  },
+  "supportedProposes": [
+    "54308030368",
+    "50364253278",
+    "3529528614",
+    "42827164806",
+    "66548433802",
+    "0795451423",
+    "93228310276"
+  ],
+  "addedProposes": [
+    "66548433802"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11055050@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "63f563abc8779fea626c9387"
+  },
+  "id": "117680402122163588943",
+  "password": null,
+  "school": "381301",
+  "name": "八仁39鄒永桀",
+  "joindate": {
+    "$date": "2023-02-22T00:36:59.820Z"
+  },
+  "supportedProposes": [
+    "50364253278",
+    "3529528614",
+    "42827164806",
+    "15976560334",
+    "15514607786",
+    "54308030368",
+    "663376332",
+    "133696901",
+    "66548433802",
+    "72479498069",
+    "7070304008",
+    "0460352773",
+    "42171425592",
+    "98476085992",
+    "82880991037",
+    "3288257027",
+    "7603414377"
+  ],
+  "addedProposes": [
+    "82880991037"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f563b0c8779fea626c938a"
+  },
+  "id": "108625314143811479842",
+  "password": null,
+  "school": "381301",
+  "name": "八仁27張睿紘",
+  "joindate": {
+    "$date": "2023-02-22T00:37:04.949Z"
+  },
+  "supportedProposes": [
+    "50364253278",
+    "3288257027"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f563bcc8779fea626c938c"
+  },
+  "id": "113776563213280044026",
+  "password": null,
+  "school": "381301",
+  "name": "八仁31陳偉翔",
+  "joindate": {
+    "$date": "2023-02-22T00:37:16.987Z"
+  },
+  "supportedProposes": [
+    "3288257027",
+    "82880991037",
+    "06817060804",
+    "72479498069",
+    "7603414377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f563ddc8779fea626c938f"
+  },
+  "id": "110926402751544998817",
+  "password": null,
+  "school": "381301",
+  "name": "八仁07宋宥霆",
+  "joindate": {
+    "$date": "2023-02-22T00:37:49.589Z"
+  },
+  "supportedProposes": [
+    "3529528614",
+    "15976560334",
+    "15514607786",
+    "7070304008",
+    "72479498069",
+    "42171425592",
+    "3288257027",
+    "82880991037",
+    "06817060804",
+    "64812814377",
+    "1290225996",
+    "13761622829",
+    "663376332",
+    "50364253278"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11055067@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "63f56402c8779fea626c9398"
+  },
+  "id": "115226197266414305209",
+  "password": null,
+  "school": "381301",
+  "name": "八仁04楊猗淳",
+  "joindate": {
+    "$date": "2023-02-22T00:38:26.766Z"
+  },
+  "supportedProposes": [
+    "54308030368"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f565fcc8779fea626c93f1"
+  },
+  "id": "106656836319950732218",
+  "password": null,
+  "school": "381301",
+  "name": "八仁05高雅妍",
+  "joindate": {
+    "$date": "2023-02-22T00:46:52.596Z"
+  },
+  "supportedProposes": [
+    "663376332",
+    "16070818586"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f566afc8779fea626c9407"
+  },
+  "id": "114563450318728472428",
+  "password": null,
+  "school": "381301",
+  "name": "八仁18李晟睿",
+  "joindate": {
+    "$date": "2023-02-22T00:49:51.960Z"
+  },
+  "supportedProposes": [
+    "72479498069",
+    "7070304008",
+    "15976560334",
+    "3288257027",
+    "82880991037"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f56856c8779fea626c9454"
+  },
+  "id": "104147376516704188124",
+  "password": null,
+  "school": "381301",
+  "name": "八仁02吳祤霈",
+  "joindate": {
+    "$date": "2023-02-22T00:56:54.237Z"
+  },
+  "supportedProposes": [
+    "3288257027"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f5bc14bd9e126d033e78e1"
+  },
+  "id": "116539518595194407360",
+  "password": null,
+  "school": "381301",
+  "name": "一忠38林敬哲",
+  "joindate": {
+    "$date": "2023-02-22T06:54:12.751Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f736392b3778e4d638cc9b"
+  },
+  "id": "116248693502442296199",
+  "password": null,
+  "school": "381301",
+  "name": "二誠22吳立恆",
+  "joindate": {
+    "$date": "2023-02-23T09:47:37.725Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "54308030368"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f737ff2b3778e4d638cc9e"
+  },
+  "id": "114406767974317960512",
+  "password": null,
+  "school": "381301",
+  "name": "二愛36許智堯",
+  "joindate": {
+    "$date": "2023-02-23T09:55:11.647Z"
+  },
+  "supportedProposes": [
+    "7603414377"
+  ],
+  "addedProposes": [
+    "16074711694"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f73c082b3778e4d638cca0"
+  },
+  "id": "101614302490480934131",
+  "password": null,
+  "school": "381301",
+  "name": "一愛46劉秉銓",
+  "joindate": {
+    "$date": "2023-02-23T10:12:24.095Z"
+  },
+  "supportedProposes": [
+    "7603414377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f74dba2b3778e4d638cca3"
+  },
+  "id": "115139414059931900115",
+  "password": null,
+  "school": "381301",
+  "name": "二義42董哲翰",
+  "joindate": {
+    "$date": "2023-02-23T11:27:54.327Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f74fef2b3778e4d638cca4"
+  },
+  "id": "108812736865656629474",
+  "password": null,
+  "school": "381301",
+  "name": "一愛13張桂慈",
+  "joindate": {
+    "$date": "2023-02-23T11:37:19.320Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "42171425592",
+    "07035175153",
+    "16070818586",
+    "133696901"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f753722b3778e4d638ccab"
+  },
+  "id": "113474848284204412908",
+  "password": null,
+  "school": "381301",
+  "name": "二義05李姵萱",
+  "joindate": {
+    "$date": "2023-02-23T11:52:18.281Z"
+  },
+  "supportedProposes": [
+    "42171425592",
+    "663376332"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f7590a2b3778e4d638ccae"
+  },
+  "id": "113874303322844542132",
+  "password": null,
+  "school": "381301",
+  "name": "二愛21鄭宇倢",
+  "joindate": {
+    "$date": "2023-02-23T12:16:10.646Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "93228310276",
+    "42171425592",
+    "663376332",
+    "50364253278",
+    "133696901"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f766ea2b3778e4d638ccb7"
+  },
+  "id": "117918819371696368542",
+  "password": null,
+  "school": "381301",
+  "name": "一平33高百承",
+  "joindate": {
+    "$date": "2023-02-23T13:15:22.409Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "82880991037",
+    "133696901"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f76d112b3778e4d638ccbb"
+  },
+  "id": "101330840963809909453",
+  "password": null,
+  "school": "381301",
+  "name": "一愛18陳筠函",
+  "joindate": {
+    "$date": "2023-02-23T13:41:37.203Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "82880991037",
+    "50364253278",
+    "07035175153",
+    "133696901"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f792082b3778e4d638ccc1"
+  },
+  "id": "101674246748656580448",
+  "password": null,
+  "school": "381301",
+  "name": "一愛19曾子珊",
+  "joindate": {
+    "$date": "2023-02-23T16:19:20.806Z"
+  },
+  "supportedProposes": [
+    "82880991037",
+    "93228310276",
+    "42171425592",
+    "663376332",
+    "15976560334",
+    "42827164806",
+    "50364253278",
+    "07035175153"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f7de8f2b3778e4d638ccca"
+  },
+  "id": "100331796901996068899",
+  "password": null,
+  "school": "381301",
+  "name": "二智12周聖傑",
+  "joindate": {
+    "$date": "2023-02-23T21:45:51.069Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f879792b3778e4d638cccb"
+  },
+  "id": "118005858641074416647",
+  "password": null,
+  "school": "381301",
+  "name": "一愛03李佩恩",
+  "joindate": {
+    "$date": "2023-02-24T08:46:49.023Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "663376332"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11132022@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "63f8aa3e2b3778e4d638cccd"
+  },
+  "id": "110112979730579746798",
+  "password": null,
+  "school": "381301",
+  "name": "一義02江家妤",
+  "joindate": {
+    "$date": "2023-02-24T12:14:54.878Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "82880991037"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f8ab052b3778e4d638ccce"
+  },
+  "id": "115587043499906218368",
+  "password": null,
+  "school": "381301",
+  "name": "一愛20龔佳琪",
+  "joindate": {
+    "$date": "2023-02-24T12:18:13.081Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f98efb2b3778e4d638ccd1"
+  },
+  "id": "108087369711130964663",
+  "password": null,
+  "school": "381301",
+  "name": "一信46鄭羽廷",
+  "joindate": {
+    "$date": "2023-02-25T04:30:51.610Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "82880991037",
+    "15976560334",
+    "50364253278"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f999002b3778e4d638ccd6"
+  },
+  "id": "114027222720161873268",
+  "password": null,
+  "school": "381301",
+  "name": "一愛25劉怡辰",
+  "joindate": {
+    "$date": "2023-02-25T05:13:36.843Z"
+  },
+  "supportedProposes": [
+    "15976560334"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63f9ddda2b3778e4d638ccd9"
+  },
+  "id": "108475246939326477566",
+  "password": null,
+  "school": "381301",
+  "name": "一愛35吳睿文",
+  "joindate": {
+    "$date": "2023-02-25T10:07:22.582Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "19123811048"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fa161d2b3778e4d638ccdb"
+  },
+  "id": "117452094310219391515",
+  "password": null,
+  "school": "381301",
+  "name": "一平19羅宥芹",
+  "joindate": {
+    "$date": "2023-02-25T14:07:25.222Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "663376332",
+    "50364253278",
+    "07035175153",
+    "51402567768"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fb15de2b3778e4d638cce1"
+  },
+  "id": "105153092951410739670",
+  "password": null,
+  "school": "381301",
+  "name": "二智23吳伊晨",
+  "joindate": {
+    "$date": "2023-02-26T08:18:38.257Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "42171425592",
+    "0460352773",
+    "07035175153",
+    "51402567768",
+    "133696901",
+    "42827164806"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fc75632b3778e4d638cce9"
+  },
+  "id": "110350961560956759182",
+  "password": null,
+  "school": "381301",
+  "name": "一愛27賴昀姗",
+  "joindate": {
+    "$date": "2023-02-27T09:18:27.920Z"
+  },
+  "supportedProposes": [
+    "133696901",
+    "7603414377",
+    "50364253278"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fdcfc72b3778e4d638cced"
+  },
+  "id": "107770128231626181518",
+  "password": null,
+  "school": "381301",
+  "name": "一平32翁苙閎",
+  "joindate": {
+    "$date": "2023-02-28T09:56:23.469Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "82880991037",
+    "93228310276",
+    "50364253278"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fdf8562b3778e4d638ccf2"
+  },
+  "id": "113792125405043513739",
+  "password": null,
+  "school": "381301",
+  "name": "一義09洪芷盈",
+  "joindate": {
+    "$date": "2023-02-28T12:49:26.163Z"
+  },
+  "supportedProposes": [
+    "15976560334",
+    "51402567768"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63ff30ff2b3778e4d638ccfe"
+  },
+  "id": "110431373654209140552",
+  "password": null,
+  "school": "381301",
+  "name": "一平01何羽芹",
+  "joindate": {
+    "$date": "2023-03-01T11:03:27.169Z"
+  },
+  "supportedProposes": [
+    "19123811048",
+    "25114906495",
+    "7603414377",
+    "82880991037",
+    "93228310276",
+    "50364253278"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63ff54b92b3778e4d638cd05"
+  },
+  "id": "104613998313246325225",
+  "password": null,
+  "school": "381301",
+  "name": "一義09周鈺惠",
+  "joindate": {
+    "$date": "2023-03-01T13:35:53.553Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "07035175153",
+    "50364253278",
+    "13761622829"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11132098@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "63ffec6d2b3778e4d638cd09"
+  },
+  "id": "115355989771012652181",
+  "password": null,
+  "school": "381301",
+  "name": "七正03徐以晏",
+  "joindate": {
+    "$date": "2023-03-02T00:23:09.781Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "663376332",
+    "15976560334",
+    "82880991037",
+    "133696901",
+    "13761622829",
+    "69792771987",
+    "15908732353",
+    "93228310276",
+    "0795451423",
+    "72479498069",
+    "0672254483",
+    "07035175153",
+    "42171425592",
+    "15514607786",
+    "50364253278",
+    "0460352773",
+    "66548433802",
+    "3529528614",
+    "54308030368",
+    "7070304008"
+  ],
+  "addedProposes": [
+    "0672254483"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63ffec762b3778e4d638cd0a"
+  },
+  "id": "109073874742982501544",
+  "password": null,
+  "school": "381301",
+  "name": "七正04張芫溱",
+  "joindate": {
+    "$date": "2023-03-02T00:23:18.146Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "42171425592",
+    "93228310276",
+    "15976560334",
+    "42827164806",
+    "133696901",
+    "13761622829",
+    "50364253278",
+    "69792771987",
+    "15908732353",
+    "0672254483",
+    "0460352773"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11150236@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "63ffec772b3778e4d638cd0b"
+  },
+  "id": "114799607731401901505",
+  "password": null,
+  "school": "381301",
+  "name": "七正26陳畊圻",
+  "joindate": {
+    "$date": "2023-03-02T00:23:19.809Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "82880991037",
+    "42171425592",
+    "72479498069",
+    "50364253278",
+    "663376332",
+    "0795451423"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63ffec922b3778e4d638cd0d"
+  },
+  "id": "107430537653390335384",
+  "password": null,
+  "school": "381301",
+  "name": "七正12王畇掄",
+  "joindate": {
+    "$date": "2023-03-02T00:23:46.750Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "7603414377",
+    "0460352773",
+    "72479498069",
+    "133696901",
+    "13761622829",
+    "69792771987",
+    "50364253278",
+    "3529528614",
+    "15908732353",
+    "54308030368"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff42b2b3778e4d638cd13"
+  },
+  "id": "114583608305516164166",
+  "password": null,
+  "school": "381301",
+  "name": "七正21邱顯恆",
+  "joindate": {
+    "$date": "2023-03-02T00:56:11.138Z"
+  },
+  "supportedProposes": [
+    "50364253278",
+    "7603414377",
+    "0795451423",
+    "133696901",
+    "13761622829",
+    "15908732353",
+    "69792771987"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff42d2b3778e4d638cd14"
+  },
+  "id": "114229365388891122938",
+  "password": null,
+  "school": "381301",
+  "name": "七正39謝易橙",
+  "joindate": {
+    "$date": "2023-03-02T00:56:13.037Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "0795451423",
+    "15976560334",
+    "3529528614",
+    "54308030368",
+    "50364253278",
+    "133696901"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff4362b3778e4d638cd15"
+  },
+  "id": "109315936846491549427",
+  "password": null,
+  "school": "381301",
+  "name": "七正32黃翔駿",
+  "joindate": {
+    "$date": "2023-03-02T00:56:22.220Z"
+  },
+  "supportedProposes": [
+    "93228310276",
+    "42171425592",
+    "0460352773",
+    "663376332",
+    "42827164806",
+    "07035175153",
+    "0795451423",
+    "13761622829"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff4372b3778e4d638cd16"
+  },
+  "id": "114481287379125049575",
+  "password": null,
+  "school": "381301",
+  "name": "七正15李嘉宸",
+  "joindate": {
+    "$date": "2023-03-02T00:56:23.023Z"
+  },
+  "supportedProposes": [
+    "54308030368",
+    "7603414377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff43a2b3778e4d638cd17"
+  },
+  "id": "113687261404836242226",
+  "password": null,
+  "school": "381301",
+  "name": "七正31黃柏睿",
+  "joindate": {
+    "$date": "2023-03-02T00:56:26.295Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "0795451423",
+    "133696901",
+    "15908732353"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff4432b3778e4d638cd19"
+  },
+  "id": "105441584617602209888",
+  "password": null,
+  "school": "381301",
+  "name": "七正33黃耀興",
+  "joindate": {
+    "$date": "2023-03-02T00:56:35.246Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "0795451423",
+    "13761622829",
+    "15908732353"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff44b2b3778e4d638cd1a"
+  },
+  "id": "114797909686877090138",
+  "password": null,
+  "school": "381301",
+  "name": "七正38賴晨鞍",
+  "joindate": {
+    "$date": "2023-03-02T00:56:43.250Z"
+  },
+  "supportedProposes": [
+    "93228310276",
+    "15976560334",
+    "133696901",
+    "0795451423"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff4502b3778e4d638cd1b"
+  },
+  "id": "113012087186749731755",
+  "password": null,
+  "school": "381301",
+  "name": "七正16沈恩宇",
+  "joindate": {
+    "$date": "2023-03-02T00:56:48.572Z"
+  },
+  "supportedProposes": [
+    "50364253278",
+    "54308030368"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff45f2b3778e4d638cd20"
+  },
+  "id": "112129036753107669525",
+  "password": null,
+  "school": "381301",
+  "name": "七正17周伯勳",
+  "joindate": {
+    "$date": "2023-03-02T00:57:03.431Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "82880991037",
+    "0460352773",
+    "50364253278",
+    "133696901",
+    "0795451423"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff4672b3778e4d638cd22"
+  },
+  "id": "117963325481479708987",
+  "password": null,
+  "school": "381301",
+  "name": "七正37鄭惟丰",
+  "joindate": {
+    "$date": "2023-03-02T00:57:11.074Z"
+  },
+  "supportedProposes": [
+    "50364253278",
+    "93228310276",
+    "54308030368",
+    "0795451423",
+    "7603414377",
+    "72479498069",
+    "0460352773",
+    "133696901",
+    "51402567768"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff4682b3778e4d638cd23"
+  },
+  "id": "114900779659194602573",
+  "password": null,
+  "school": "381301",
+  "name": "七正10王星叡",
+  "joindate": {
+    "$date": "2023-03-02T00:57:12.844Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "0795451423"
+  ],
+  "addedProposes": [
+    "0795451423"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff4692b3778e4d638cd24"
+  },
+  "id": "105064874814521101042",
+  "password": null,
+  "school": "381301",
+  "name": "七正02邵安婕",
+  "joindate": {
+    "$date": "2023-03-02T00:57:13.931Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "15976560334",
+    "0460352773",
+    "133696901",
+    "93228310276",
+    "13761622829",
+    "69792771987",
+    "15908732353",
+    "0672254483"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff46b2b3778e4d638cd27"
+  },
+  "id": "104057185512257116914",
+  "password": null,
+  "school": "381301",
+  "name": "712 40竣守",
+  "joindate": {
+    "$date": "2023-03-02T00:57:15.828Z"
+  },
+  "supportedProposes": [
+    "69792771987",
+    "15908732353",
+    "42171425592",
+    "0795451423",
+    "7603414377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff46d2b3778e4d638cd2a"
+  },
+  "id": "100769213957061839860",
+  "password": null,
+  "school": "381301",
+  "name": "七正23張源霖",
+  "joindate": {
+    "$date": "2023-03-02T00:57:17.141Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "50364253278",
+    "7603414377",
+    "15908732353"
+  ],
+  "addedProposes": [
+    "15908732353"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff47f2b3778e4d638cd2e"
+  },
+  "id": "112799484843177390578",
+  "password": null,
+  "school": "381301",
+  "name": "七正27陳羿任",
+  "joindate": {
+    "$date": "2023-03-02T00:57:35.114Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "0795451423",
+    "93228310276",
+    "663376332",
+    "50364253278",
+    "69792771987",
+    "15908732353"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff4802b3778e4d638cd31"
+  },
+  "id": "115605750897606822792",
+  "password": null,
+  "school": "381301",
+  "name": "七正28曾冠榮",
+  "joindate": {
+    "$date": "2023-03-02T00:57:36.503Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "7603414377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff4882b3778e4d638cd34"
+  },
+  "id": "116090417173118410690",
+  "password": null,
+  "school": "381301",
+  "name": "七正11王柏崴",
+  "joindate": {
+    "$date": "2023-03-02T00:57:44.417Z"
+  },
+  "supportedProposes": [
+    "50364253278",
+    "133696901",
+    "0795451423",
+    "7603414377",
+    "15908732353"
+  ],
+  "addedProposes": [
+    "13761622829"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff48e2b3778e4d638cd35"
+  },
+  "id": "101165176515059962481",
+  "password": null,
+  "school": "381301",
+  "name": "七正09王建皓",
+  "joindate": {
+    "$date": "2023-03-02T00:57:50.373Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "133696901",
+    "0795451423",
+    "13761622829",
+    "42827164806",
+    "69792771987",
+    "15908732353"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff4a32b3778e4d638cd3b"
+  },
+  "id": "118245787700904009174",
+  "password": null,
+  "school": "381301",
+  "name": "七正30黃建瑋",
+  "joindate": {
+    "$date": "2023-03-02T00:58:11.457Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "93228310276",
+    "0460352773",
+    "15514607786",
+    "133696901",
+    "0795451423"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff4c02b3778e4d638cd43"
+  },
+  "id": "108986162944124115080",
+  "password": null,
+  "school": "381301",
+  "name": "七正22胡亦亭",
+  "joindate": {
+    "$date": "2023-03-02T00:58:40.813Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "0795451423",
+    "93228310276",
+    "50364253278",
+    "133696901",
+    "7070304008",
+    "7389213213",
+    "13761622829",
+    "15908732353",
+    "69792771987"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff4cb2b3778e4d638cd4a"
+  },
+  "id": "107588517121521958215",
+  "password": null,
+  "school": "381301",
+  "name": "七正13王國庭",
+  "joindate": {
+    "$date": "2023-03-02T00:58:51.407Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "93228310276",
+    "66548433802",
+    "0795451423",
+    "13761622829",
+    "69792771987",
+    "15908732353",
+    "50364253278"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff4e02b3778e4d638cd4f"
+  },
+  "id": "104774696369086775604",
+  "password": null,
+  "school": "381301",
+  "name": "七正41羅大為",
+  "joindate": {
+    "$date": "2023-03-02T00:59:12.795Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "7603414377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff4e42b3778e4d638cd52"
+  },
+  "id": "108889185387191827810",
+  "password": null,
+  "school": "381301",
+  "name": "七正01李竺霓",
+  "joindate": {
+    "$date": "2023-03-02T00:59:16.940Z"
+  },
+  "supportedProposes": [
+    "50364253278",
+    "7603414377",
+    "13761622829"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff4f32b3778e4d638cd57"
+  },
+  "id": "111560056400094723545",
+  "password": null,
+  "school": "381301",
+  "name": "七正19林孟澤",
+  "joindate": {
+    "$date": "2023-03-02T00:59:31.252Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "0795451423",
+    "15976560334",
+    "50364253278",
+    "133696901",
+    "13761622829",
+    "15908732353",
+    "3529528614",
+    "51402567768"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff4f62b3778e4d638cd58"
+  },
+  "id": "116138325532970325396",
+  "password": null,
+  "school": "381301",
+  "name": "七正20林家凱",
+  "joindate": {
+    "$date": "2023-03-02T00:59:34.438Z"
+  },
+  "supportedProposes": [
+    "13761622829",
+    "0795451423",
+    "0672254483",
+    "93228310276"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11155301@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "63fff5152b3778e4d638cd64"
+  },
+  "id": "117574471484955047982",
+  "password": null,
+  "school": "381301",
+  "name": "七正36蔡智傑",
+  "joindate": {
+    "$date": "2023-03-02T01:00:05.149Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "0795451423"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff5442b3778e4d638cd73"
+  },
+  "id": "111087201474299073246",
+  "password": null,
+  "school": "381301",
+  "name": "七正35潘宥瑋",
+  "joindate": {
+    "$date": "2023-03-02T01:00:52.921Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "133696901",
+    "0795451423",
+    "93228310276",
+    "69792771987"
+  ],
+  "addedProposes": [
+    "69792771987"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff5752b3778e4d638cd7e"
+  },
+  "id": "103733231824785403793",
+  "password": null,
+  "school": "381301",
+  "name": "七正34廖力霆",
+  "joindate": {
+    "$date": "2023-03-02T01:01:41.271Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "0795451423",
+    "93228310276"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff60b2b3778e4d638cd9b"
+  },
+  "id": "117928003531899645632",
+  "password": null,
+  "school": "381301",
+  "name": "七正06陳品璇",
+  "joindate": {
+    "$date": "2023-03-02T01:04:11.619Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "7603414377",
+    "133696901"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff6312b3778e4d638cda5"
+  },
+  "id": "108217645604603242895",
+  "password": null,
+  "school": "381301",
+  "name": "七正07劉芷杉",
+  "joindate": {
+    "$date": "2023-03-02T01:04:49.061Z"
+  },
+  "supportedProposes": [
+    "51402567768"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "63fff6402b3778e4d638cda9"
+  },
+  "id": "105238834648752182000",
+  "password": null,
+  "school": "381301",
+  "name": "七正08簡忻凌",
+  "joindate": {
+    "$date": "2023-03-02T01:05:04.408Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004242b3778e4d638cdf9"
+  },
+  "id": "105303324412825391508",
+  "password": null,
+  "school": "381301",
+  "name": "八愛46謝東諭",
+  "joindate": {
+    "$date": "2023-03-02T02:04:20.473Z"
+  },
+  "supportedProposes": [
+    "15908732353",
+    "69792771987",
+    "13761622829",
+    "0795451423",
+    "7603414377",
+    "42171425592",
+    "0460352773",
+    "42827164806",
+    "50364253278",
+    "07035175153",
+    "133696901"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004282b3778e4d638cdfa"
+  },
+  "id": "115201681247243069854",
+  "password": null,
+  "school": "381301",
+  "name": "八愛08陳昱晴",
+  "joindate": {
+    "$date": "2023-03-02T02:04:24.016Z"
+  },
+  "supportedProposes": [
+    "15908732353",
+    "7603414377",
+    "13761622829",
+    "72479498069",
+    "133696901",
+    "50364253278",
+    "07035175153"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "6400042b2b3778e4d638cdfb"
+  },
+  "id": "113312477991797574267",
+  "password": null,
+  "school": "381301",
+  "name": "八愛05高盈喬",
+  "joindate": {
+    "$date": "2023-03-02T02:04:27.961Z"
+  },
+  "supportedProposes": [
+    "13761622829",
+    "7603414377",
+    "69792771987",
+    "82880991037",
+    "42171425592",
+    "0460352773",
+    "42827164806",
+    "3529528614",
+    "133696901"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "6400042c2b3778e4d638cdfc"
+  },
+  "id": "102167219364153673587",
+  "password": null,
+  "school": "381301",
+  "name": "八愛43蕭叡謙",
+  "joindate": {
+    "$date": "2023-03-02T02:04:28.455Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "50364253278",
+    "3529528614"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004312b3778e4d638cdfd"
+  },
+  "id": "104476014604536057289",
+  "password": null,
+  "school": "381301",
+  "name": "八愛35楊士弘",
+  "joindate": {
+    "$date": "2023-03-02T02:04:33.575Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004392b3778e4d638cdff"
+  },
+  "id": "118116624158182768638",
+  "password": null,
+  "school": "381301",
+  "name": "八愛04孫安筠",
+  "joindate": {
+    "$date": "2023-03-02T02:04:41.455Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004392b3778e4d638ce00"
+  },
+  "id": "114340862357177316921",
+  "password": null,
+  "school": "381301",
+  "name": "八愛28張瑋軒",
+  "joindate": {
+    "$date": "2023-03-02T02:04:41.805Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "93228310276",
+    "7603414377",
+    "133696901"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004432b3778e4d638ce04"
+  },
+  "id": "107375795953741707504",
+  "password": null,
+  "school": "381301",
+  "name": "八愛37廖昌平",
+  "joindate": {
+    "$date": "2023-03-02T02:04:51.032Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "15514607786",
+    "7603414377",
+    "93228310276",
+    "663376332"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004602b3778e4d638ce10"
+  },
+  "id": "106396929371706948517",
+  "password": null,
+  "school": "381301",
+  "name": "八愛26涂皓宇",
+  "joindate": {
+    "$date": "2023-03-02T02:05:20.949Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "7603414377",
+    "93228310276",
+    "133696901",
+    "7389213213"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004742b3778e4d638ce15"
+  },
+  "id": "105595365414557038598",
+  "password": null,
+  "school": "381301",
+  "name": "八愛29張語秝",
+  "joindate": {
+    "$date": "2023-03-02T02:05:40.429Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004762b3778e4d638ce17"
+  },
+  "id": "116471672688096803586",
+  "password": null,
+  "school": "381301",
+  "name": "八愛39趙梓安",
+  "joindate": {
+    "$date": "2023-03-02T02:05:42.151Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004862b3778e4d638ce19"
+  },
+  "id": "105342899725695969991",
+  "password": null,
+  "school": "381301",
+  "name": "八愛06許皓詒",
+  "joindate": {
+    "$date": "2023-03-02T02:05:58.922Z"
+  },
+  "supportedProposes": [
+    "7603414377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004872b3778e4d638ce1a"
+  },
+  "id": "100316803476605540181",
+  "password": null,
+  "school": "381301",
+  "name": "八愛10楊心菲",
+  "joindate": {
+    "$date": "2023-03-02T02:05:59.560Z"
+  },
+  "supportedProposes": [
+    "133696901",
+    "7603414377",
+    "72479498069",
+    "3529528614"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004882b3778e4d638ce1b"
+  },
+  "id": "116241868010104376394",
+  "password": null,
+  "school": "381301",
+  "name": "八愛16吳柏穎",
+  "joindate": {
+    "$date": "2023-03-02T02:06:00.265Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "42171425592",
+    "82880991037",
+    "133696901",
+    "93228310276",
+    "69792771987"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004932b3778e4d638ce20"
+  },
+  "id": "109422544173856441205",
+  "password": null,
+  "school": "381301",
+  "name": "八愛41蔡政澔",
+  "joindate": {
+    "$date": "2023-03-02T02:06:11.070Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "6400049f2b3778e4d638ce24"
+  },
+  "id": "117198716121654424520",
+  "password": null,
+  "school": "381301",
+  "name": "八愛49鄭天晴",
+  "joindate": {
+    "$date": "2023-03-02T02:06:23.679Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "82880991037",
+    "98476085992",
+    "93228310276",
+    "42171425592",
+    "663376332",
+    "54308030368",
+    "51402567768",
+    "07035175153",
+    "7603414377",
+    "50364253278"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004a62b3778e4d638ce27"
+  },
+  "id": "103602520112556380687",
+  "password": null,
+  "school": "381301",
+  "name": "八愛45謝名軒",
+  "joindate": {
+    "$date": "2023-03-02T02:06:30.149Z"
+  },
+  "supportedProposes": [
+    "0795451423"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004b62b3778e4d638ce2c"
+  },
+  "id": "102425507617322118561",
+  "password": null,
+  "school": "381301",
+  "name": "八愛01王淯柔",
+  "joindate": {
+    "$date": "2023-03-02T02:06:46.759Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "50364253278"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004c52b3778e4d638ce33"
+  },
+  "id": "114939807564908568773",
+  "password": null,
+  "school": "381301",
+  "name": "八愛32黃立愷",
+  "joindate": {
+    "$date": "2023-03-02T02:07:01.782Z"
+  },
+  "supportedProposes": [
+    "7603414377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004c82b3778e4d638ce37"
+  },
+  "id": "116252609613776394747",
+  "password": null,
+  "school": "381301",
+  "name": "八愛11劉千郁",
+  "joindate": {
+    "$date": "2023-03-02T02:07:04.178Z"
+  },
+  "supportedProposes": [
+    "7603414377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004cb2b3778e4d638ce39"
+  },
+  "id": "102558199963211007820",
+  "password": null,
+  "school": "381301",
+  "name": "八愛22邱禹綸",
+  "joindate": {
+    "$date": "2023-03-02T02:07:07.738Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004d92b3778e4d638ce42"
+  },
+  "id": "109699332606482770970",
+  "password": null,
+  "school": "381301",
+  "name": "八愛12蔡子妍",
+  "joindate": {
+    "$date": "2023-03-02T02:07:21.112Z"
+  },
+  "supportedProposes": [
+    "7603414377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004e02b3778e4d638ce46"
+  },
+  "id": "104034230490173035432",
+  "password": null,
+  "school": "381301",
+  "name": "八愛23洪少芃",
+  "joindate": {
+    "$date": "2023-03-02T02:07:28.897Z"
+  },
+  "supportedProposes": [
+    "7603414377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640004fe2b3778e4d638ce4d"
+  },
+  "id": "113276997956132087353",
+  "password": null,
+  "school": "381301",
+  "name": "八愛36楊子興",
+  "joindate": {
+    "$date": "2023-03-02T02:07:58.835Z"
+  },
+  "supportedProposes": [
+    "93228310276"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640005022b3778e4d638ce51"
+  },
+  "id": "102614649508639898581",
+  "password": null,
+  "school": "381301",
+  "name": "八愛14王科翔",
+  "joindate": {
+    "$date": "2023-03-02T02:08:02.301Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "6400050e2b3778e4d638ce56"
+  },
+  "id": "111660233723028056530",
+  "password": null,
+  "school": "381301",
+  "name": "八愛31陳學而",
+  "joindate": {
+    "$date": "2023-03-02T02:08:14.850Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "133696901",
+    "0795451423",
+    "50364253278"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64000a2c2b3778e4d638ce67"
+  },
+  "id": "102997957894194780735",
+  "password": null,
+  "school": "381301",
+  "name": "八愛07陳昀琦",
+  "joindate": {
+    "$date": "2023-03-02T02:30:04.030Z"
+  },
+  "supportedProposes": [
+    "15908732353",
+    "13761622829",
+    "7603414377",
+    "06817060804",
+    "82880991037",
+    "54308030368",
+    "50364253278",
+    "133696901"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "6400102c2b3778e4d638ce71"
+  },
+  "id": "117567625359279161176",
+  "password": null,
+  "school": "381301",
+  "name": "七義08王彬羽",
+  "joindate": {
+    "$date": "2023-03-02T02:55:40.541Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "82880991037",
+    "15514607786",
+    "133696901",
+    "7603414377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640010cf2b3778e4d638ce76"
+  },
+  "id": "107131530211923443996",
+  "password": null,
+  "school": "381301",
+  "name": "七義12吳冠翰",
+  "joindate": {
+    "$date": "2023-03-02T02:58:23.849Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640011162b3778e4d638ce77"
+  },
+  "id": "107256665043708572590",
+  "password": null,
+  "school": "381301",
+  "name": "七義22張凱勛",
+  "joindate": {
+    "$date": "2023-03-02T02:59:34.606Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "82880991037",
+    "7603414377",
+    "50364253278",
+    "133696901"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "6400118c2b3778e4d638ce7d"
+  },
+  "id": "109255359360620350488",
+  "password": null,
+  "school": "381301",
+  "name": "七義19范予謙",
+  "joindate": {
+    "$date": "2023-03-02T03:01:32.500Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "93228310276",
+    "133696901",
+    "13761622829",
+    "7603414377",
+    "72479498069",
+    "50364253278",
+    "0460352773"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640012382b3778e4d638ce7e"
+  },
+  "id": "114430751433967005178",
+  "password": null,
+  "school": "381301",
+  "name": "七義05鄭沛潔",
+  "joindate": {
+    "$date": "2023-03-02T03:04:24.839Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "98476085992",
+    "93228310276",
+    "66548433802",
+    "51402567768",
+    "133696901",
+    "3529528614",
+    "663376332",
+    "50364253278"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640012482b3778e4d638ce7f"
+  },
+  "id": "106075114060439835555",
+  "password": null,
+  "school": "381301",
+  "name": "七義26郭晉暘",
+  "joindate": {
+    "$date": "2023-03-02T03:04:40.232Z"
+  },
+  "supportedProposes": [
+    "133696901",
+    "93228310276",
+    "82880991037"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "6400124b2b3778e4d638ce80"
+  },
+  "id": "102410756734143158035",
+  "password": null,
+  "school": "381301",
+  "name": "七義18洪宇駿",
+  "joindate": {
+    "$date": "2023-03-02T03:04:43.620Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640012582b3778e4d638ce81"
+  },
+  "id": "104274045850024508369",
+  "password": null,
+  "school": "381301",
+  "name": "七義20唐詰堯",
+  "joindate": {
+    "$date": "2023-03-02T03:04:56.849Z"
+  },
+  "supportedProposes": [
+    "93228310276",
+    "50364253278",
+    "133696901",
+    "7603414377",
+    "7389213213",
+    "0795451423",
+    "0460352773"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640012592b3778e4d638ce82"
+  },
+  "id": "118275686720709822989",
+  "password": null,
+  "school": "381301",
+  "name": "七義29游博崴",
+  "joindate": {
+    "$date": "2023-03-02T03:04:57.724Z"
+  },
+  "supportedProposes": [
+    "72479498069",
+    "663376332",
+    "13761622829",
+    "133696901",
+    "93228310276"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "6400125e2b3778e4d638ce83"
+  },
+  "id": "106919719092703288495",
+  "password": null,
+  "school": "381301",
+  "name": "七義21孫宇璿",
+  "joindate": {
+    "$date": "2023-03-02T03:05:02.082Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "82880991037",
+    "93228310276",
+    "50364253278"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "6400126e2b3778e4d638ce88"
+  },
+  "id": "114238554516550836062",
+  "password": null,
+  "school": "381301",
+  "name": "七義31黃澤睿",
+  "joindate": {
+    "$date": "2023-03-02T03:05:18.265Z"
+  },
+  "supportedProposes": [
+    "13761622829",
+    "0795451423",
+    "93228310276",
+    "0460352773",
+    "7070304008",
+    "72479498069",
+    "15514607786",
+    "42827164806",
+    "50364253278",
+    "133696901",
+    "69792771987",
+    "15908732353",
+    "82880991037"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "6400126e2b3778e4d638ce89"
+  },
+  "id": "109140326175342651381",
+  "password": null,
+  "school": "381301",
+  "name": "七義37鄧皓文",
+  "joindate": {
+    "$date": "2023-03-02T03:05:18.484Z"
+  },
+  "supportedProposes": [
+    "15908732353",
+    "69792771987",
+    "13761622829",
+    "0795451423",
+    "7603414377",
+    "82880991037",
+    "42171425592",
+    "0460352773",
+    "42827164806"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "6400127c2b3778e4d638ce8b"
+  },
+  "id": "116560984572535006754",
+  "password": null,
+  "school": "381301",
+  "name": "七義41鐘駿逸",
+  "joindate": {
+    "$date": "2023-03-02T03:05:32.337Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "6400127f2b3778e4d638ce8d"
+  },
+  "id": "103197606981793259948",
+  "password": null,
+  "school": "381301",
+  "name": "七義28陳韋郡",
+  "joindate": {
+    "$date": "2023-03-02T03:05:35.691Z"
+  },
+  "supportedProposes": [
+    "69792771987",
+    "0795451423",
+    "7603414377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11155155@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "640012902b3778e4d638ce90"
+  },
+  "id": "113887424481039618441",
+  "password": null,
+  "school": "381301",
+  "name": "七義14李柏諭",
+  "joindate": {
+    "$date": "2023-03-02T03:05:52.243Z"
+  },
+  "supportedProposes": [
+    "69792771987",
+    "13761622829",
+    "82880991037"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "6400129d2b3778e4d638ce96"
+  },
+  "id": "116952341382324588244",
+  "password": null,
+  "school": "381301",
+  "name": "七義09田翼",
+  "joindate": {
+    "$date": "2023-03-02T03:06:05.718Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "93228310276",
+    "50364253278",
+    "13761622829",
+    "15908732353"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640012b32b3778e4d638ce9f"
+  },
+  "id": "107429652988627594611",
+  "password": null,
+  "school": "381301",
+  "name": "七義24曹軒齊",
+  "joindate": {
+    "$date": "2023-03-02T03:06:27.051Z"
+  },
+  "supportedProposes": [
+    "15908732353",
+    "13761622829",
+    "0795451423",
+    "06817060804",
+    "82880991037",
+    "0460352773",
+    "50364253278",
+    "54308030368",
+    "07035175153",
+    "7389213213",
+    "51402567768"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640012c72b3778e4d638cea3"
+  },
+  "id": "111339217753891424123",
+  "password": null,
+  "school": "381301",
+  "name": "七義27陳宇澤",
+  "joindate": {
+    "$date": "2023-03-02T03:06:47.518Z"
+  },
+  "supportedProposes": [
+    "133696901",
+    "7603414377",
+    "82880991037",
+    "93228310276",
+    "3529528614",
+    "50364253278"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640012d82b3778e4d638ceae"
+  },
+  "id": "102281337288425279880",
+  "password": null,
+  "school": "381301",
+  "name": "七義06戴翊馨",
+  "joindate": {
+    "$date": "2023-03-02T03:07:04.522Z"
+  },
+  "supportedProposes": [
+    "42827164806"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640012dc2b3778e4d638ceaf"
+  },
+  "id": "102859755628894749788",
+  "password": null,
+  "school": "381301",
+  "name": "七義03陳韻晴",
+  "joindate": {
+    "$date": "2023-03-02T03:07:08.334Z"
+  },
+  "supportedProposes": [
+    "15976560334",
+    "7603414377",
+    "50364253278",
+    "663376332",
+    "0672254483"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11150118@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "640012df2b3778e4d638ceb1"
+  },
+  "id": "111355098119154827302",
+  "password": null,
+  "school": "381301",
+  "name": "七義23曹庭維",
+  "joindate": {
+    "$date": "2023-03-02T03:07:11.140Z"
+  },
+  "supportedProposes": [
+    "50364253278",
+    "133696901",
+    "7603414377",
+    "13761622829"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640013612b3778e4d638ced4"
+  },
+  "id": "117963036502600516857",
+  "password": null,
+  "school": "381301",
+  "name": "七義38鄭宇崴",
+  "joindate": {
+    "$date": "2023-03-02T03:09:21.546Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "0795451423",
+    "13761622829",
+    "93228310276",
+    "72479498069"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "6400136b2b3778e4d638ced8"
+  },
+  "id": "109010400432275897645",
+  "password": null,
+  "school": "381301",
+  "name": "七義16林鉦澤",
+  "joindate": {
+    "$date": "2023-03-02T03:09:31.018Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640013752b3778e4d638cede"
+  },
+  "id": "117141234396352995591",
+  "password": null,
+  "school": "381301",
+  "name": "七義25郭侑豪",
+  "joindate": {
+    "$date": "2023-03-02T03:09:41.694Z"
+  },
+  "supportedProposes": [
+    "54308030368",
+    "42827164806",
+    "13761622829",
+    "72479498069"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640013ab2b3778e4d638cee9"
+  },
+  "id": "107581856000343270153",
+  "password": null,
+  "school": "381301",
+  "name": "七義32楊子弘",
+  "joindate": {
+    "$date": "2023-03-02T03:10:35.673Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640013af2b3778e4d638ceea"
+  },
+  "id": "107380344565151689301",
+  "password": null,
+  "school": "381301",
+  "name": "七義10任柏澄",
+  "joindate": {
+    "$date": "2023-03-02T03:10:39.921Z"
+  },
+  "supportedProposes": [
+    "7603414377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640025be2b3778e4d638cefe"
+  },
+  "id": "107040862324523561347",
+  "password": null,
+  "school": "381301",
+  "name": "二誠21于震",
+  "joindate": {
+    "$date": "2023-03-02T04:27:42.465Z"
+  },
+  "supportedProposes": [
+    "7603414377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640027a12b3778e4d638cf00"
+  },
+  "id": "107426412212675376583",
+  "password": null,
+  "school": "381301",
+  "name": "二誠43黃獻儀",
+  "joindate": {
+    "$date": "2023-03-02T04:35:45.401Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "13761622829",
+    "0795451423",
+    "82880991037",
+    "93228310276",
+    "42171425592",
+    "0460352773",
+    "50364253278",
+    "133696901"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640027fd2b3778e4d638cf07"
+  },
+  "id": "115548236155219835678",
+  "password": null,
+  "school": "381301",
+  "name": "二誠42黃喆詮",
+  "joindate": {
+    "$date": "2023-03-02T04:37:17.337Z"
+  },
+  "supportedProposes": [
+    "15908732353",
+    "69792771987",
+    "13761622829",
+    "7603414377",
+    "82880991037",
+    "93228310276",
+    "15976560334"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "640028312b3778e4d638cf0d"
+  },
+  "id": "112771618576556745118",
+  "password": null,
+  "school": "381301",
+  "name": "二誠32康維傑",
+  "joindate": {
+    "$date": "2023-03-02T04:38:09.923Z"
+  },
+  "supportedProposes": [
+    "69792771987",
+    "7603414377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004a802b3778e4d638cf15"
+  },
+  "id": "113107019337440589374",
+  "password": null,
+  "school": "381301",
+  "name": "七誠15李冠勳",
+  "joindate": {
+    "$date": "2023-03-02T07:04:32.881Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "50364253278"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004a952b3778e4d638cf16"
+  },
+  "id": "112699352351070597732",
+  "password": null,
+  "school": "381301",
+  "name": "七誠39蔡文傑",
+  "joindate": {
+    "$date": "2023-03-02T07:04:53.772Z"
+  },
+  "supportedProposes": [
+    "15908732353",
+    "69792771987",
+    "13761622829",
+    "0795451423",
+    "7603414377",
+    "06817060804",
+    "82880991037",
+    "93228310276",
+    "42171425592",
+    "15514607786",
+    "42827164806",
+    "3529528614",
+    "54308030368",
+    "50364253278",
+    "07035175153",
+    "133696901",
+    "0672254483",
+    "64812814377",
+    "1290225996",
+    "7070304008",
+    "12808988871"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11155283@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "64004a992b3778e4d638cf17"
+  },
+  "id": "117963411888323787422",
+  "password": null,
+  "school": "381301",
+  "name": "七誠25徐彥鈞",
+  "joindate": {
+    "$date": "2023-03-02T07:04:57.363Z"
+  },
+  "supportedProposes": [
+    "72479498069"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004abc2b3778e4d638cf1b"
+  },
+  "id": "117765590318395409388",
+  "password": null,
+  "school": "381301",
+  "name": "七誠32陳彥愷",
+  "joindate": {
+    "$date": "2023-03-02T07:05:32.573Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "0795451423",
+    "13761622829",
+    "50364253278",
+    "0672254483",
+    "28297149693",
+    "1290225996",
+    "64812814377"
+  ],
+  "addedProposes": [
+    "64812814377"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11155276@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "64004ace2b3778e4d638cf1e"
+  },
+  "id": "118369062943915691956",
+  "password": null,
+  "school": "381301",
+  "name": "七誠11江恆律",
+  "joindate": {
+    "$date": "2023-03-02T07:05:50.476Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004ad02b3778e4d638cf1f"
+  },
+  "id": "105888476483009366744",
+  "password": null,
+  "school": "381301",
+  "name": "七誠16李威宏",
+  "joindate": {
+    "$date": "2023-03-02T07:05:52.697Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "0795451423",
+    "93228310276",
+    "50364253278",
+    "133696901"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004ad12b3778e4d638cf20"
+  },
+  "id": "107994338934664552546",
+  "password": null,
+  "school": "381301",
+  "name": "七誠35陸佑鑫",
+  "joindate": {
+    "$date": "2023-03-02T07:05:53.747Z"
+  },
+  "supportedProposes": [
+    "13761622829",
+    "0795451423",
+    "06817060804",
+    "93228310276",
+    "72479498069",
+    "42827164806",
+    "133696901",
+    "663376332"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004ad52b3778e4d638cf21"
+  },
+  "id": "109149873877689901134",
+  "password": null,
+  "school": "381301",
+  "name": "七誠42蔡濰澤",
+  "joindate": {
+    "$date": "2023-03-02T07:05:57.081Z"
+  },
+  "supportedProposes": [
+    "7603414377",
+    "0795451423",
+    "13761622829",
+    "93228310276",
+    "50364253278"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004adc2b3778e4d638cf25"
+  },
+  "id": "110397029366409551027",
+  "password": null,
+  "school": "381301",
+  "name": "七誠29陳泓進",
+  "joindate": {
+    "$date": "2023-03-02T07:06:04.016Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "13761622829",
+    "42171425592",
+    "7603414377",
+    "42827164806",
+    "50364253278",
+    "07035175153",
+    "15908732353"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004adc2b3778e4d638cf26"
+  },
+  "id": "103603034176007284167",
+  "password": null,
+  "school": "381301",
+  "name": "七誠21姚威序",
+  "joindate": {
+    "$date": "2023-03-02T07:06:04.773Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "82880991037",
+    "93228310276",
+    "3529528614",
+    "15976560334",
+    "50364253278",
+    "07035175153"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004ae92b3778e4d638cf2c"
+  },
+  "id": "100409555483255163846",
+  "password": null,
+  "school": "381301",
+  "name": "七誠10朱柏叡",
+  "joindate": {
+    "$date": "2023-03-02T07:06:17.408Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004aea2b3778e4d638cf2e"
+  },
+  "id": "103046526113616745003",
+  "password": null,
+  "school": "381301",
+  "name": "七誠04張詠華",
+  "joindate": {
+    "$date": "2023-03-02T07:06:18.506Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "7603414377",
+    "50364253278"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004aec2b3778e4d638cf2f"
+  },
+  "id": "101371751353723061795",
+  "password": null,
+  "school": "381301",
+  "name": "七誠12呂彥霆",
+  "joindate": {
+    "$date": "2023-03-02T07:06:20.578Z"
+  },
+  "supportedProposes": [
+    "15908732353",
+    "69792771987",
+    "06817060804",
+    "3529528614",
+    "54308030368"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004af62b3778e4d638cf34"
+  },
+  "id": "109832201737553593659",
+  "password": null,
+  "school": "381301",
+  "name": "七誠44謝瑞奕",
+  "joindate": {
+    "$date": "2023-03-02T07:06:30.485Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "3529528614",
+    "50364253278",
+    "7603414377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004afb2b3778e4d638cf36"
+  },
+  "id": "109015163335489147658",
+  "password": null,
+  "school": "381301",
+  "name": "七誠38劉宸語",
+  "joindate": {
+    "$date": "2023-03-02T07:06:35.265Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "15908732353",
+    "7603414377",
+    "98476085992",
+    "13761622829",
+    "93228310276",
+    "72479498069",
+    "7070304008",
+    "15514607786",
+    "15976560334",
+    "3529528614",
+    "50364253278",
+    "07035175153",
+    "7389213213",
+    "133696901"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004b0a2b3778e4d638cf3c"
+  },
+  "id": "101154282646031541175",
+  "password": null,
+  "school": "381301",
+  "name": "七誠22施柏為",
+  "joindate": {
+    "$date": "2023-03-02T07:06:50.200Z"
+  },
+  "supportedProposes": [
+    "15908732353",
+    "0795451423",
+    "82880991037",
+    "50364253278"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004b1a2b3778e4d638cf41"
+  },
+  "id": "103100653975937919029",
+  "password": null,
+  "school": "381301",
+  "name": "七誠43賴冠綸",
+  "joindate": {
+    "$date": "2023-03-02T07:07:06.308Z"
+  },
+  "supportedProposes": [
+    "50364253278"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004b252b3778e4d638cf48"
+  },
+  "id": "114691518742515856027",
+  "password": null,
+  "school": "381301",
+  "name": "七誠17邢宸暟",
+  "joindate": {
+    "$date": "2023-03-02T07:07:17.980Z"
+  },
+  "supportedProposes": [
+    "0795451423"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004b852b3778e4d638cf65"
+  },
+  "id": "117657633394421941047",
+  "password": null,
+  "school": "381301",
+  "name": "七誠08蕭媄加",
+  "joindate": {
+    "$date": "2023-03-02T07:08:53.720Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004b8d2b3778e4d638cf66"
+  },
+  "id": "113224890878480371262",
+  "password": null,
+  "school": "381301",
+  "name": "七誠19林珈瑾",
+  "joindate": {
+    "$date": "2023-03-02T07:09:01.601Z"
+  },
+  "supportedProposes": [
+    "12808988871",
+    "07035175153",
+    "50364253278",
+    "133696901"
+  ],
+  "addedProposes": [
+    "12808988871"
+  ],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11155263@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "64004ba42b3778e4d638cf69"
+  },
+  "id": "105842750394259051542",
+  "password": null,
+  "school": "381301",
+  "name": "七誠28許睿洋",
+  "joindate": {
+    "$date": "2023-03-02T07:09:24.009Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "7389213213",
+    "15908732353"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004bae2b3778e4d638cf6c"
+  },
+  "id": "103540953664829851715",
+  "password": null,
+  "school": "381301",
+  "name": "七誠01方允和",
+  "joindate": {
+    "$date": "2023-03-02T07:09:34.818Z"
+  },
+  "supportedProposes": [
+    "7603414377"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004baf2b3778e4d638cf6d"
+  },
+  "id": "118156406241969681388",
+  "password": null,
+  "school": "381301",
+  "name": "七誠26曹恩睿",
+  "joindate": {
+    "$date": "2023-03-02T07:09:35.499Z"
+  },
+  "supportedProposes": [],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64004bf32b3778e4d638cf7b"
+  },
+  "id": "109404267171799105857",
+  "password": null,
+  "school": "381301",
+  "name": "七誠40蔡沅樺",
+  "joindate": {
+    "$date": "2023-03-02T07:10:43.257Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "7603414377",
+    "50364253278"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11155284@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "64004c462b3778e4d638cf8f"
+  },
+  "id": "102254389417244692539",
+  "password": null,
+  "school": "381301",
+  "name": "七誠34陳贈兆",
+  "joindate": {
+    "$date": "2023-03-02T07:12:06.421Z"
+  },
+  "supportedProposes": [
+    "0795451423"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false,
+  "email": "11155278@stu.tshs.tp.edu.tw"
+},{
+  "_id": {
+    "$oid": "6401649a2b3778e4d638cfb3"
+  },
+  "id": "104646589587006247421",
+  "password": null,
+  "school": "381301",
+  "name": "一愛32林軒朗",
+  "joindate": {
+    "$date": "2023-03-03T03:08:10.913Z"
+  },
+  "supportedProposes": [
+    "42171425592",
+    "07035175153",
+    "13761622829",
+    "15908732353",
+    "0672254483"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "64164122eb15d5ddf9369f98"
+  },
+  "id": "117302599586736147891",
+  "password": null,
+  "school": "381301",
+  "name": "二智45陳翔宇",
+  "joindate": {
+    "$date": "2023-03-18T22:54:26.407Z"
+  },
+  "supportedProposes": [
+    "0795451423",
+    "7603414377",
+    "133696901"
+  ],
+  "addedProposes": [],
+  "commentedSupportForums": [],
+  "addedForums": [],
+  "isAdmin": false,
+  "isBanned": false,
+  "isDeleted": false
+}]
