@@ -4,9 +4,9 @@ path=`pwd | rev | cut -d '/' -f 1 | rev`
 if [ "$path" == "joinstu-backend" ]
 then
     echo "You are in joinstu-backend!"
-    chmod +x ./bin/www
-    mongod --dbpath ./db & export NODE_ENV='dev' MONGO_URI="$MONGO_URI" && nodemon ./bin/www
 else
-    echo "$path"
-    echo "Please cd to joinstu-backend!"
+    cd "${0%/*}"
+    echo "Already cd you to ${0%/*}!"
 fi
+chmod +x ./bin/www
+mongod --dbpath ./db & export NODE_ENV='dev' MONGO_URI="$MONGO_URI" && nodemon ./bin/www
