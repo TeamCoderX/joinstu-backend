@@ -9,4 +9,4 @@ else
     echo "Already cd you to ${0%/*}!"
 fi
 chmod +x ./bin/www
-mongod --dbpath ./db & export NODE_ENV='dev' MONGO_URI="$MONGO_URI" && nodemon ./bin/www
+mongod --dbpath ./db & export NODE_ENV='production' MONGO_URI="$MONGO_URI" && nodemon ./bin/www
